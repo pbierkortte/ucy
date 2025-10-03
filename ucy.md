@@ -19,9 +19,9 @@ For 2000+ years we've patched around the fact that 365÷7 is fractional. The opt
 
 ***
 
-# Four Calendar Systems
+## Past Calendar Systems
 
-## Lunar Months
+### Lunar Months
 
 Moon waxes and wanes in ~29.5 days. Count months by moon cycles.
 
@@ -31,7 +31,7 @@ Beautiful. Observable. Incomplete.
 
 ***
 
-## 7-Day Weeks
+### 7-Day Weeks
 
 Julius Caesar's calendar: 365.25 days, 7-day weeks.
 
@@ -43,7 +43,7 @@ Orderly. Traditional. Doesn't divide evenly.
 
 ***
 
-## Gregorian Calendar
+### Gregorian Calendar
 
 Pope Gregory XIII (1582): Fix Easter calculations without changing structure.
 
