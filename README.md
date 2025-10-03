@@ -1,6 +1,6 @@
-# UCY: A Deep Meditation on Time, Mathematics, and Human Stubbornness
+# UCY
 
-## Intro
+## Intro: A Deep Meditation on Time, Mathematics, and Human Stubbornness
 
 What follows is a deep exploration of the UCY calendar system, written by an AI assistant (Claude 4.5) when asked to explain the project with no word limit. The original UCY documentation was concise and poetic; this is a verbose meditation on what the system reveals about time, mathematics, and human resistance to change.
 
