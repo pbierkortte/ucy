@@ -93,7 +93,7 @@ Hierarchy: Days (0-7) → Weeks (0-45/46) → Years. No months.
 
 ***
 
-## @ & A
+## Q & A
 
 **Q: What if there's a moment when the complexity finally becomes too much?**
 
