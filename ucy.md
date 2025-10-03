@@ -1,6 +1,6 @@
 # UCY
 
-UCY is how those without shadows play hide and seek with the the sun.
+UCY is how those without shadows play hide and seek with the sun.
 
 How? It's so easy!
 
